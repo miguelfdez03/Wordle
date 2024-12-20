@@ -1,0 +1,18 @@
+# Archivos de IntelliJ IDEA
+.idea/
+*.iml
+out/
+*.ipr
+*.iws
+
+# Configuración específica del usuario
+*.log
+*.properties
+
+# Archivos de compilación
+*.class
+*.jar
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
