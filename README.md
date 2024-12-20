@@ -11,12 +11,6 @@ El juego permite:
 
 El proyecto está desarrollado en **Java**, utilizando las librerías estándar de Swing para la interfaz gráfica.
 
-El propósito de incluir este proyecto en tu portafolio es mostrar habilidades en:
-- Manejo de interfaces gráficas (Swing).
-- Estructuración de código orientada a objetos.
-- Uso básico de lógica de videojuegos.
-- Validación y procesamiento de datos de entrada del usuario.
-
 ## Características
 
 1. **Interfaz gráfica interactiva (GUI)**:
